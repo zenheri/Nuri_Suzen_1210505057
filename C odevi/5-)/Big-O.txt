@@ -1,0 +1,5 @@
+Bir algoritmanın Big-O gösterimi, algoritmanın en kötü durumda ne kadar sürede çalışacağını ifade eder. 
+Big-O gösterimi, algoritmanın çalışma süresinin veri boyutuna göre nasıl değiştiğini belirler ve bir fonksiyonla ifade edilir.
+
+Örneğin, bubble sort algoritması için Big-O gösterimi O(n^2)'dir. 
+Bu gösterim, veri boyutu n'e göre, en kötü durumda, algoritmanın çalışma süresinin yaklaşık olarak n^2'ye orantılı olduğunu ifade eder.

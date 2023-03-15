@@ -1,0 +1,7 @@
+Bir algoritmanın en kötü durum süresi o algoritmanın
+en uzun çalışma süresi demektir.
+kısa bir örnek ile açıklamak gerekirse
+bruteforce yöntemi ile aşağıdaki dizinin en büyük elemanını
+bulmamız istenirse algoritmamız 9 defa çalışacaktır
+bu yüzden en kötü durum süresi olarak tanımlanır.
+[7-4-5-2-1-8-3-6-9]

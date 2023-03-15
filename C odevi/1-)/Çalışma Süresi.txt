@@ -1,0 +1,2 @@
+Bir dizideki en büyük sayıyı bulmak için kullanılan en hızlı algoritma merge sort algoritmasıdır.
+merge sort algoritması ile 0.019827 saniyede bulunurken,bruteforce algoritması ile 0.3789 saniyede bulunmuştur.

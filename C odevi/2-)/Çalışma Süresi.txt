@@ -1,0 +1,7 @@
+Bir algoritmanın çalışma süresi veri boyutuna bağlı olarak değişir
+çünkü genellikle veri boyutu arttıkça işlem yapılacak verinin miktarı da artar
+ve bu da algoritmanın çalışma süresini etkiler.
+Algoritmanın çalışma süresi, genellikle "O büyük notasyonu" adı verilen bir yöntemle ifade edilir.
+Bu notasyon, algoritmanın işlem yapması için gereken zamanın veri boyutuna göre nasıl değiştiğini tanımlamak için kullanılır. 
+Örneğin, bir algoritmanın çalışma süresi O(n) ise, 
+veri boyutu n ile doğru orantılıdır ve veri boyutu arttıkça algoritmanın çalışma süresi de artacaktır
