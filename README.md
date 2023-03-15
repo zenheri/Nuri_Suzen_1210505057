@@ -1,0 +1,2 @@
+# Nuri_Suzen_1210505057
+Algoritma_Odevi
